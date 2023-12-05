@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5158E74C2B1F276900136AE7 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5158E74B2B1F276900136AE7 /* SourceLinkView.swift */; };
+		5158E74E2B1F2AD300136AE7 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5158E74D2B1F2AD300136AE7 /* FruitNutrientsView.swift */; };
 		51F44EE72B1DF51900EA8E18 /* FructusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51F44EE62B1DF51900EA8E18 /* FructusApp.swift */; };
 		51F44EE92B1DF51900EA8E18 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51F44EE82B1DF51900EA8E18 /* ContentView.swift */; };
 		51F44EEB2B1DF51B00EA8E18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51F44EEA2B1DF51B00EA8E18 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		5158E74B2B1F276900136AE7 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		5158E74D2B1F2AD300136AE7 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 		51F44EE32B1DF51900EA8E18 /* Fructus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fructus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51F44EE62B1DF51900EA8E18 /* FructusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FructusApp.swift; sourceTree = "<group>"; };
 		51F44EE82B1DF51900EA8E18 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				51F44F022B1F1BF800EA8E18 /* FruitRowView.swift */,
 				51F44F062B1F226300EA8E18 /* FruitHeaderView.swift */,
 				5158E74B2B1F276900136AE7 /* SourceLinkView.swift */,
+				5158E74D2B1F2AD300136AE7 /* FruitNutrientsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				5158E74C2B1F276900136AE7 /* SourceLinkView.swift in Sources */,
 				51F44EF72B1EFB9400EA8E18 /* FruitCardView.swift in Sources */,
 				51F44F032B1F1BF800EA8E18 /* FruitRowView.swift in Sources */,
+				5158E74E2B1F2AD300136AE7 /* FruitNutrientsView.swift in Sources */,
 				51F44EF92B1EFE2700EA8E18 /* StartButtonView.swift in Sources */,
 				51F44F052B1F200400EA8E18 /* FruitDetailView.swift in Sources */,
 				51F44EE92B1DF51900EA8E18 /* ContentView.swift in Sources */,
